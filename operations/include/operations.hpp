@@ -1,0 +1,1 @@
+double add(double lhs, double rhs);
